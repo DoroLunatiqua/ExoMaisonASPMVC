@@ -1,0 +1,19 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Person] (Table)
+       [dbo].[User] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       [dbo].[CK_Person_Birth_Date] (Contrainte de validation)
+
+** Actions de support
