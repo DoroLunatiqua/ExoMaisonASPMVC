@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE sp_GetUserById
+﻿CREATE PROCEDURE [dbo].[sp_GetUserById]
    @user_id UNIQUEIDENTIFIER
 AS
 BEGIN
@@ -7,7 +7,7 @@ BEGIN
 			[Last_Name],
 			[Email], 
 			[CreatedAt], 
-			[DisabledAt],
+			[DisabledAt]
 		
 		FROM [User]
 		WHERE [User_Id] = @user_id

@@ -13,6 +13,9 @@
       },
       "DAL/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/DAL.dll": {}
         },

@@ -59,6 +59,7 @@
     <Folder Include="Tables" />
     <Folder Include="Scripts" />
     <Folder Include="Stored Procedures" />
+    <Folder Include="Functions" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\User.sql" />
@@ -68,6 +69,7 @@
     <Build Include="Stored Procedures\sp_UpdateUser.sql" />
     <Build Include="Stored Procedures\sp_DeleteUser.sql" />
     <Build Include="Stored Procedures\sp_CheckPassword.sql" />
+    <Build Include="Functions\SF_SaltAndHash.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="DB.publish.xml" />

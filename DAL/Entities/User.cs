@@ -8,7 +8,8 @@ namespace DAL.Entities
 {
     public class User
     {
-        public Guid User_Id { get; set; }
+
+    public Guid User_Id { get; set; }
     public string First_Name { get; set; }
     public string Last_Name { get; set; }
     public string Email { get; set; }
@@ -16,6 +17,14 @@ namespace DAL.Entities
     public Guid Salt { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime? DisabledAt { get; set; }
+        public User(string v1, string v2, Guid guid)
+        {
+        }
+
+        public User()
+        {
+        }
     }
+    
     
 }

@@ -10,4 +10,6 @@ namespace Common.Repositories
     {
         Guid CheckPassword(string email, string password);
     }
+
+
 }
