@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AEFE87E-E0B2-4446-B027-BD3DA12A4415}|BLL\\BLL.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEFE87E-E0B2-4446-B027-BD3DA12A4415}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7332FD83-BB8D-4C79-90CF-F2E537E6CA7A}|DAL1\\DAL1.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\dal1\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7332FD83-BB8D-4C79-90CF-F2E537E6CA7A}|DAL1\\DAL1.csproj|solutionrelative:dal1\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56273717-2533-4F59-8520-0E7E1D008D3D}|DAL\\DAL.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56273717-2533-4F59-8520-0E7E1D008D3D}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90AB9D94-BA37-41EB-B9B0-EEBD9FC6BEA7}|common\\common.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\asp-mvc\\asp-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\asp-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332FD83-BB8D-4C79-90CF-F2E537E6CA7A}|DAL1\\DAL1.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\dal1\\dal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7332FD83-BB8D-4C79-90CF-F2E537E6CA7A}|DAL1\\DAL1.csproj|solutionrelative:dal1\\dal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78580DD9-F9DA-4BA7-A818-D00A541D5119}|BLL1\\BLL1.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\bll1\\bll1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78580DD9-F9DA-4BA7-A818-D00A541D5119}|BLL1\\BLL1.csproj|solutionrelative:bll1\\bll1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78580DD9-F9DA-4BA7-A818-D00A541D5119}|BLL1\\BLL1.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\bll1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78580DD9-F9DA-4BA7-A818-D00A541D5119}|BLL1\\BLL1.csproj|solutionrelative:bll1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78580DD9-F9DA-4BA7-A818-D00A541D5119}|BLL1\\BLL1.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\bll1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78580DD9-F9DA-4BA7-A818-D00A541D5119}|BLL1\\BLL1.csproj|solutionrelative:bll1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332FD83-BB8D-4C79-90CF-F2E537E6CA7A}|DAL1\\DAL1.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\dal1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7332FD83-BB8D-4C79-90CF-F2E537E6CA7A}|DAL1\\DAL1.csproj|solutionrelative:dal1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AB9D94-BA37-41EB-B9B0-EEBD9FC6BEA7}|common\\common.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\common\\repositories\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AB9D94-BA37-41EB-B9B0-EEBD9FC6BEA7}|common\\common.csproj|solutionrelative:common\\repositories\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AB9D94-BA37-41EB-B9B0-EEBD9FC6BEA7}|common\\common.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90AB9D94-BA37-41EB-B9B0-EEBD9FC6BEA7}|common\\common.csproj|solutionrelative:common\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56273717-2533-4F59-8520-0E7E1D008D3D}|DAL\\DAL.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56273717-2533-4F59-8520-0E7E1D008D3D}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\asp-mvc\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56273717-2533-4F59-8520-0E7E1D008D3D}|DAL\\DAL.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56273717-2533-4F59-8520-0E7E1D008D3D}|DAL\\DAL.csproj|solutionrelative:dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEFE87E-E0B2-4446-B027-BD3DA12A4415}|BLL\\BLL.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\bll\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEFE87E-E0B2-4446-B027-BD3DA12A4415}|BLL\\BLL.csproj|solutionrelative:bll\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEFE87E-E0B2-4446-B027-BD3DA12A4415}|BLL\\BLL.csproj|C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\bll\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEFE87E-E0B2-4446-B027-BD3DA12A4415}|BLL\\BLL.csproj|solutionrelative:bll\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\wad24-exomaisonepreuve\\asp-mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1570FEC8-6E2D-48D6-A5D3-4C61669B9F4F}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASP-MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\ASP-MVC.csproj",
+              "RelativeDocumentMoniker": "ASP-MVC\\ASP-MVC.csproj",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\ASP-MVC.csproj",
+              "RelativeToolTip": "ASP-MVC\\ASP-MVC.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T17:06:28.806Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -47,89 +80,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL1\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "DAL1\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL1\\Services\\BaseService.cs",
+              "RelativeToolTip": "DAL1\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:18:05.624Z",
+              "WhenOpened": "2025-03-09T17:21:08.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "mapper.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL\\Mappers\\mapper.cs",
-              "RelativeDocumentMoniker": "DAL\\Mappers\\mapper.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL\\Mappers\\mapper.cs",
-              "RelativeToolTip": "DAL\\Mappers\\mapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:44:18.984Z"
+              "Title": "BLL1.csproj",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL1\\BLL1.csproj",
+              "RelativeDocumentMoniker": "BLL1\\BLL1.csproj",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL1\\BLL1.csproj",
+              "RelativeToolTip": "BLL1\\BLL1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T17:05:25.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "BLL\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL\\Entities\\User.cs",
-              "RelativeToolTip": "BLL\\Entities\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAgAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL1\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BLL1\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL1\\Entities\\User.cs",
+              "RelativeToolTip": "BLL1\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:15:31.146Z"
+              "WhenOpened": "2025-03-09T17:03:58.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "mapper.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL\\Mappers\\mapper.cs",
-              "RelativeDocumentMoniker": "BLL\\Mappers\\mapper.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL\\Mappers\\mapper.cs",
-              "RelativeToolTip": "BLL\\Mappers\\mapper.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAAaAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL1\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\BLL1\\Class1.cs",
+              "RelativeToolTip": "BLL1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:13:05.038Z"
+              "WhenOpened": "2025-03-09T17:03:34.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL1\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DAL1\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL1\\Entities\\User.cs",
+              "RelativeToolTip": "DAL1\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:00:59.878Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL\\Entities\\User.cs",
-              "RelativeToolTip": "DAL\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:55:39.323Z"
+              "Title": "DAL1.csproj",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL1\\DAL1.csproj",
+              "RelativeDocumentMoniker": "DAL1\\DAL1.csproj",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL1\\DAL1.csproj",
+              "RelativeToolTip": "DAL1\\DAL1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T16:59:10.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "ICRUDRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\common\\Repositories\\ICRUDRepository.cs",
+              "RelativeDocumentMoniker": "common\\Repositories\\ICRUDRepository.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\common\\Repositories\\ICRUDRepository.cs",
+              "RelativeToolTip": "common\\Repositories\\ICRUDRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:18:49.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\common\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "common\\Repositories\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\common\\Repositories\\IUserRepository.cs",
               "RelativeToolTip": "common\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T09:09:13.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T16:18:32.211Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\DAL\\Services\\UserService.cs",
-              "RelativeToolTip": "DAL\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP-MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\appsettings.json",
+              "RelativeToolTip": "ASP-MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T16:16:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\Mappers\\mapper.cs",
+              "RelativeDocumentMoniker": "ASP-MVC\\Mappers\\mapper.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\Mappers\\mapper.cs",
+              "RelativeToolTip": "ASP-MVC\\Mappers\\mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T11:46:38.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T15:11:09.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP-MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\Wad24-exoMaisonEpreuve\\ASP-MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP-MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:04:35.88Z"
             }
           ]
         }

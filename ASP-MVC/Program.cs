@@ -1,6 +1,6 @@
 using System.Security.AccessControl;
 using Common.Repositories;
-using DAL.Services;
+using DAL1.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,7 +14,7 @@ builder.Services.AddControllersWithViews();
 string connectionString = builder.Configuration.GetConnectionString("Main-DB");
 
 // Ajouter les services (Dépendances)
-builder.Services.AddScoped<IUserRepository<DAL.Entities.User>, DAL.Services.UserService>();
+builder.Services.AddScoped<IUserRepository<DAL1.Entities.User>, DAL1.Services.UserService>();
 builder.Services.AddScoped<UserService>();
 
 

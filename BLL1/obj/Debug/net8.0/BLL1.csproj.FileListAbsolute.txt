@@ -1,0 +1,6 @@
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.csproj.AssemblyReference.cache
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.AssemblyInfoInputs.cache
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.AssemblyInfo.cs
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.csproj.CoreCompileInputs.cache
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.sourcelink.json
