@@ -1,10 +1,21 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using ASP_MVC.Mappers;
+using ASP_MVC.Models.User;
+using Common.Repositories;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ASP_MVC.Controllers
 {
     public class UserController : Controller
     {
+
+        private IUserRepository<BLL1.Entities.User> _userService;
+
+        public UserController(IUserRepository<BLL1.Entities.User> userService)
+        {
+            _userService = userService;
+        }
+
         // GET: UserController
         public ActionResult Index()
         {
@@ -12,9 +23,17 @@ namespace ASP_MVC.Controllers
         }
 
         // GET: UserController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(Guid id)
         {
-            return View();
+            try
+            {
+                UserDetails model = _userService.Get(id).ToDetails();
+                return View(model);
+            }
+            catch (Exception)
+            {
+                return RedirectToAction("Error", "Home");
+            }
         }
 
         // GET: UserController/Create

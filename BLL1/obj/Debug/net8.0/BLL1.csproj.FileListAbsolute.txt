@@ -4,3 +4,16 @@ C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.Ass
 C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.AssemblyInfo.cs
 C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.csproj.CoreCompileInputs.cache
 C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.sourcelink.json
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\BLL1.deps.json
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\BLL1.dll
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\BLL1.pdb
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\common.dll
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\DAL1.dll
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\common.pdb
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\common.dll.config
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\bin\Debug\net8.0\DAL1.pdb
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.csproj.Up2Date
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.dll
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\refint\BLL1.dll
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\BLL1.pdb
+C:\Users\Doro\source\repos\Wad24-exoMaisonEpreuve\BLL1\obj\Debug\net8.0\ref\BLL1.dll
